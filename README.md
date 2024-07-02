@@ -84,3 +84,5 @@ python bot.py
 deactivate
 
 ```
+## Ссылка на чат-бот: 
+https://t.me/Giga_Chat_help_bot
